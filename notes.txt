@@ -1,0 +1,6 @@
+keep server js, client js, in separate files from game js
+require()
+
+en ftee will be 100% another application
+
+spritesheets
