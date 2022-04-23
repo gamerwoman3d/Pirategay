@@ -1,4 +1,5 @@
 //writing out pseudocode first
+//Hello Vesper!
 
 /*
 First set modes for game screens.  Start menu Battle Mode Game over mode
