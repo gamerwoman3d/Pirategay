@@ -1,4 +1,4 @@
-# Pirategay
+# Pirateyay
 A cute one person project
 
 4/8 started project
